@@ -350,7 +350,7 @@ import {
           </Table>
       </div>
       </TabsContent>
-      <TabsContent value="KhongThanhCong">Loading.......</TabsContent>
+      <TabsContent value="KhongThanhCong">Coming soon:3</TabsContent>
     </Tabs>
       </div>
     
