@@ -28,18 +28,7 @@ const invoices = [
 
 export default function TableDemo() {
     return (
-        <div className="p-16">
-            {/* Phần chứa các nút */}
-            <div className="flex justify-end mb-4">
-                <button className=" text-black px-4 py-2 rounded-lg hover:bg-blue-300">
-                    Đăng Ký
-                </button>
-                <button className=" text-black px-4 py-2 rounded-lg hover:bg-blue-300 ml-4">
-                    Đăng Nhập
-                </button>
-            </div>
-
-            {/* Phần Header chứa tiêu đề */}
+        <div className="p-16">          
             <div className="flex items-center justify-between mb-4">
                 <span className="text-2xl font-bold">QUẢN LÝ NGƯỜI DÙNG</span>
             </div>
